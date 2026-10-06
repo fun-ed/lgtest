@@ -1,0 +1,833 @@
+{
+  "schema_version": 1,
+  "fetched_at": "2026-10-06T06:10:01.257Z",
+  "method": "camofox",
+  "regions": [
+    {
+      "id": "psychz:ams",
+      "provider": "psychz",
+      "name": "Amsterdam",
+      "page_url": "https://lg.ams.psychz.net/",
+      "ipv4": "108.181.59.250",
+      "ipv6": "2604:6600:2007:48:0:2:185f:e237",
+      "files": [
+        {
+          "label": "200MB",
+          "url": "https://lg.ams.psychz.net/200MB.test"
+        }
+      ]
+    },
+    {
+      "id": "psychz:atl",
+      "provider": "psychz",
+      "name": "Atlanta, USA",
+      "page_url": "https://lg.atl.psychz.net/",
+      "ipv4": "140.174.48.130",
+      "ipv6": "2604:6600:fffc:1::10ac:13b0",
+      "files": [
+        {
+          "label": "200MB",
+          "url": "https://lg.atl.psychz.net/200MB.test"
+        }
+      ]
+    },
+    {
+      "id": "psychz:bcn",
+      "provider": "psychz",
+      "name": "Barcelona, Spain",
+      "page_url": "https://lg.bcn.psychz.net/",
+      "ipv4": "108.181.70.253",
+      "ipv6": "2604:6600:fdc0:1::3175:ef64",
+      "files": [
+        {
+          "label": "200MB",
+          "url": "https://lg.bcn.psychz.net/200MB.test"
+        }
+      ]
+    },
+    {
+      "id": "psychz:chi",
+      "provider": "psychz",
+      "name": "Chicago, Illinois",
+      "page_url": "https://lg.chi.psychz.net/",
+      "ipv4": "108.181.140.235",
+      "ipv6": "2604:6600:2700::3",
+      "files": [
+        {
+          "label": "200MB",
+          "url": "https://lg.chi.psychz.net/200MB.test"
+        }
+      ]
+    },
+    {
+      "id": "psychz:icn",
+      "provider": "psychz",
+      "name": "Seoul, South Korea",
+      "page_url": "https://lg.icn.psychz.net/",
+      "ipv4": "108.181.51.92",
+      "ipv6": "2604:6600:25::6062:5c10",
+      "files": [
+        {
+          "label": "200MB",
+          "url": "https://lg.icn.psychz.net/200MB.test"
+        }
+      ]
+    },
+    {
+      "id": "psychz:in",
+      "provider": "psychz",
+      "name": "Mumbai, India",
+      "page_url": "https://lg.in.psychz.net/",
+      "ipv4": "108.181.61.214",
+      "ipv6": "2604:6600:a3::3",
+      "files": [
+        {
+          "label": "200MB",
+          "url": "https://lg.in.psychz.net/200MB.test"
+        }
+      ]
+    },
+    {
+      "id": "psychz:jnb",
+      "provider": "psychz",
+      "name": "Johannesburg",
+      "page_url": "https://lg.jnb.psychz.net/",
+      "ipv4": "108.181.120.247",
+      "ipv6": "2604:6600:2010:32::4",
+      "files": [
+        {
+          "label": "200MB",
+          "url": "https://lg.jnb.psychz.net/200MB.test"
+        }
+      ]
+    },
+    {
+      "id": "psychz:jp",
+      "provider": "psychz",
+      "name": "Tokyo, Japan",
+      "page_url": "https://lg.jp.psychz.net/",
+      "ipv4": "108.181.73.55",
+      "ipv6": "2604:6600:99::cd63:b08",
+      "files": [
+        {
+          "label": "200MB",
+          "url": "https://lg.jp.psychz.net/200MB.test"
+        }
+      ]
+    },
+    {
+      "id": "psychz:lax",
+      "provider": "psychz",
+      "name": "Los Angeles, California",
+      "page_url": "https://lg.lax.psychz.net/",
+      "ipv4": "108.181.19.191",
+      "ipv6": "2604:6600:0:54::cd76:5890",
+      "files": [
+        {
+          "label": "200MB",
+          "url": "https://lg.lax.psychz.net/200MB.test"
+        }
+      ]
+    },
+    {
+      "id": "psychz:lon",
+      "provider": "psychz",
+      "name": "London",
+      "page_url": "https://lg.lon.psychz.net/",
+      "ipv4": "108.181.67.248",
+      "ipv6": "2604:6600:2008:1::a5f1:38f2",
+      "files": [
+        {
+          "label": "200MB",
+          "url": "https://lg.lon.psychz.net/200MB.test"
+        }
+      ]
+    },
+    {
+      "id": "psychz:sao",
+      "provider": "psychz",
+      "name": "Sao Paulo, Brazil",
+      "page_url": "https://lg.sao.psychz.net/",
+      "ipv4": "108.181.69.242",
+      "ipv6": "2604:6600:fd00:84::b0b1:28cb",
+      "files": [
+        {
+          "label": "200MB",
+          "url": "https://lg.sao.psychz.net/200MB.test"
+        }
+      ]
+    },
+    {
+      "id": "psychz:sin",
+      "provider": "psychz",
+      "name": "Singapore",
+      "page_url": "https://lg.sin.psychz.net/",
+      "files": [],
+      "error": "Camofox navigation timed out after 30 seconds; HTTP proxy connection also timed out. No IP or file metadata inferred."
+    },
+    {
+      "id": "psychz:svo",
+      "provider": "psychz",
+      "name": "Moscow, Russia",
+      "page_url": "https://lg.svo.psychz.net/",
+      "ipv4": "108.181.60.199",
+      "ipv6": "2604:6600:77:11::f5f3:cafe",
+      "files": [
+        {
+          "label": "200MB",
+          "url": "https://lg.svo.psychz.net/200MB.test"
+        }
+      ]
+    },
+    {
+      "id": "psychz:syd",
+      "provider": "psychz",
+      "name": "Sydney, Australia",
+      "page_url": "https://lg.syd.psychz.net/",
+      "ipv4": "108.181.64.80",
+      "ipv6": "2604:6600:fe7c::e4c0:65f5",
+      "files": [
+        {
+          "label": "200MB",
+          "url": "https://lg.syd.psychz.net/200MB.test"
+        }
+      ]
+    },
+    {
+      "id": "psychz:texas",
+      "provider": "psychz",
+      "name": "Dallas, Texas",
+      "page_url": "https://lg.texas.psychz.net/",
+      "ipv4": "108.181.89.251",
+      "ipv6": "2604:6600:2000:38::3",
+      "files": [
+        {
+          "label": "200MB",
+          "url": "https://lg.texas.psychz.net/200MB.test"
+        }
+      ]
+    },
+    {
+      "id": "psychz:tw",
+      "provider": "psychz",
+      "name": "Taipei, Taiwan",
+      "page_url": "https://lg.tw.psychz.net/",
+      "ipv4": "103.59.110.170",
+      "ipv6": "2604:6600:4b:2::3",
+      "files": [
+        {
+          "label": "200MB",
+          "url": "https://lg.tw.psychz.net/200MB.test"
+        }
+      ]
+    },
+    {
+      "id": "psychz:va",
+      "provider": "psychz",
+      "name": "Ashburn, USA",
+      "page_url": "https://lg.va.psychz.net/",
+      "ipv4": "108.181.134.142",
+      "ipv6": "2604:6600:2002:25::6ac5:5adf",
+      "files": [
+        {
+          "label": "200MB",
+          "url": "https://lg.va.psychz.net/200MB.test"
+        }
+      ]
+    },
+    {
+      "id": "vultr:ams-nl-ping",
+      "provider": "vultr",
+      "name": "Amsterdam",
+      "page_url": "https://ams-nl-ping.vultr.com/",
+      "ipv4": "108.61.198.102",
+      "ipv6": "2001:19f0:5000:8001:5400:ff:fe00:5366",
+      "files": [
+        {
+          "label": "100MB",
+          "url": "https://ams-nl-ping.vultr.com/vultr.com.100MB.bin"
+        },
+        {
+          "label": "1GB",
+          "url": "https://ams-nl-ping.vultr.com/vultr.com.1000MB.bin"
+        }
+      ]
+    },
+    {
+      "id": "vultr:blr-in-ping",
+      "provider": "vultr",
+      "name": "Bangalore",
+      "page_url": "https://blr-in-ping.vultr.com/",
+      "ipv4": "139.84.130.100",
+      "ipv6": "2401:c080:3000:2048:5400:4ff:fe1d:7185",
+      "files": [
+        {
+          "label": "100MB",
+          "url": "https://blr-in-ping.vultr.com/vultr.com.100MB.bin"
+        },
+        {
+          "label": "1GB",
+          "url": "https://blr-in-ping.vultr.com/vultr.com.1000MB.bin"
+        }
+      ]
+    },
+    {
+      "id": "vultr:bom-in-ping",
+      "provider": "vultr",
+      "name": "Mumbai",
+      "page_url": "https://bom-in-ping.vultr.com/",
+      "ipv4": "65.20.66.100",
+      "ipv6": "2401:c080:2400:108b:5400:3ff:fef0:2934",
+      "files": [
+        {
+          "label": "100MB",
+          "url": "https://bom-in-ping.vultr.com/vultr.com.100MB.bin"
+        },
+        {
+          "label": "1GB",
+          "url": "https://bom-in-ping.vultr.com/vultr.com.1000MB.bin"
+        }
+      ]
+    },
+    {
+      "id": "vultr:del-in-ping",
+      "provider": "vultr",
+      "name": "Delhi NCR",
+      "page_url": "https://del-in-ping.vultr.com/",
+      "ipv4": "139.84.162.104",
+      "ipv6": "2401:c080:3400:209c:5400:4ff:fe1f:b29e",
+      "files": [
+        {
+          "label": "100MB",
+          "url": "https://del-in-ping.vultr.com/vultr.com.100MB.bin"
+        },
+        {
+          "label": "1GB",
+          "url": "https://del-in-ping.vultr.com/vultr.com.1000MB.bin"
+        }
+      ]
+    },
+    {
+      "id": "vultr:fl-us-ping",
+      "provider": "vultr",
+      "name": "Miami",
+      "page_url": "https://fl-us-ping.vultr.com/",
+      "ipv4": "104.156.244.232",
+      "ipv6": "2001:19f0:9000:8001:5400:ff:fe01:3889",
+      "files": [
+        {
+          "label": "100MB",
+          "url": "https://fl-us-ping.vultr.com/vultr.com.100MB.bin"
+        },
+        {
+          "label": "1GB",
+          "url": "https://fl-us-ping.vultr.com/vultr.com.1000MB.bin"
+        }
+      ]
+    },
+    {
+      "id": "vultr:fra-de-ping",
+      "provider": "vultr",
+      "name": "Frankfurt",
+      "page_url": "https://fra-de-ping.vultr.com/",
+      "ipv4": "108.61.210.117",
+      "ipv6": "2001:19f0:6c00:8002:5400:ff:fe00:536a",
+      "files": [
+        {
+          "label": "100MB",
+          "url": "https://fra-de-ping.vultr.com/vultr.com.100MB.bin"
+        },
+        {
+          "label": "1GB",
+          "url": "https://fra-de-ping.vultr.com/vultr.com.1000MB.bin"
+        }
+      ]
+    },
+    {
+      "id": "vultr:ga-us-ping",
+      "provider": "vultr",
+      "name": "Atlanta",
+      "page_url": "https://ga-us-ping.vultr.com/",
+      "ipv4": "108.61.193.166",
+      "ipv6": "2001:19f0:5400:8001:5400:ff:fe00:5369",
+      "files": [
+        {
+          "label": "100MB",
+          "url": "https://ga-us-ping.vultr.com/vultr.com.100MB.bin"
+        },
+        {
+          "label": "1GB",
+          "url": "https://ga-us-ping.vultr.com/vultr.com.1000MB.bin"
+        }
+      ]
+    },
+    {
+      "id": "vultr:hnd-jp-ping",
+      "provider": "vultr",
+      "name": "Tokyo",
+      "page_url": "https://hnd-jp-ping.vultr.com/",
+      "ipv4": "108.61.201.151",
+      "ipv6": "2001:19f0:7000:8002:5400:ff:fe00:536d",
+      "files": [
+        {
+          "label": "100MB",
+          "url": "https://hnd-jp-ping.vultr.com/vultr.com.100MB.bin"
+        },
+        {
+          "label": "1GB",
+          "url": "https://hnd-jp-ping.vultr.com/vultr.com.1000MB.bin"
+        }
+      ]
+    },
+    {
+      "id": "vultr:hon-hi-us-ping",
+      "provider": "vultr",
+      "name": "Honolulu",
+      "page_url": "https://hon-hi-us-ping.vultr.com/",
+      "ipv4": "208.72.154.76",
+      "ipv6": "2001:19f0:c000:c06d:5400:3ff:feea:c1f8",
+      "files": [
+        {
+          "label": "100MB",
+          "url": "https://hon-hi-us-ping.vultr.com/vultr.com.100MB.bin"
+        },
+        {
+          "label": "1GB",
+          "url": "https://hon-hi-us-ping.vultr.com/vultr.com.1000MB.bin"
+        }
+      ]
+    },
+    {
+      "id": "vultr:il-us-ping",
+      "provider": "vultr",
+      "name": "Chicago",
+      "page_url": "https://il-us-ping.vultr.com/",
+      "ipv4": "107.191.51.12",
+      "ipv6": "2001:19f0:5c00:8401:5400:ff:fe00:5364",
+      "files": [
+        {
+          "label": "100MB",
+          "url": "https://il-us-ping.vultr.com/vultr.com.100MB.bin"
+        },
+        {
+          "label": "1GB",
+          "url": "https://il-us-ping.vultr.com/vultr.com.1000MB.bin"
+        }
+      ]
+    },
+    {
+      "id": "vultr:jnb-za-ping",
+      "provider": "vultr",
+      "name": "Johannesburg",
+      "page_url": "https://jnb-za-ping.vultr.com/",
+      "ipv4": "139.84.226.78",
+      "ipv6": "2a05:f480:3000:2069:5400:4ff:fe3a:3ea8",
+      "files": [
+        {
+          "label": "100MB",
+          "url": "https://jnb-za-ping.vultr.com/vultr.com.100MB.bin"
+        },
+        {
+          "label": "1GB",
+          "url": "https://jnb-za-ping.vultr.com/vultr.com.1000MB.bin"
+        }
+      ]
+    },
+    {
+      "id": "vultr:lax-ca-us-ping",
+      "provider": "vultr",
+      "name": "Los Angeles",
+      "page_url": "https://lax-ca-us-ping.vultr.com/",
+      "ipv4": "108.61.219.200",
+      "ipv6": "2001:19f0:6000:8002:5400:ff:fe00:5365",
+      "files": [
+        {
+          "label": "100MB",
+          "url": "https://lax-ca-us-ping.vultr.com/vultr.com.100MB.bin"
+        },
+        {
+          "label": "1GB",
+          "url": "https://lax-ca-us-ping.vultr.com/vultr.com.1000MB.bin"
+        }
+      ]
+    },
+    {
+      "id": "vultr:lon-gb-ping",
+      "provider": "vultr",
+      "name": "London",
+      "page_url": "https://lon-gb-ping.vultr.com/",
+      "ipv4": "108.61.196.101",
+      "ipv6": "2001:19f0:7400:8001:5400:ff:fe00:5367",
+      "files": [
+        {
+          "label": "100MB",
+          "url": "https://lon-gb-ping.vultr.com/vultr.com.100MB.bin"
+        },
+        {
+          "label": "1GB",
+          "url": "https://lon-gb-ping.vultr.com/vultr.com.1000MB.bin"
+        }
+      ]
+    },
+    {
+      "id": "vultr:mad-es-ping",
+      "provider": "vultr",
+      "name": "Madrid",
+      "page_url": "https://mad-es-ping.vultr.com/",
+      "ipv4": "208.76.222.30",
+      "ipv6": "2a05:f480:2800:1101:5400:3ff:fecd:a6b7",
+      "files": [
+        {
+          "label": "100MB",
+          "url": "https://mad-es-ping.vultr.com/vultr.com.100MB.bin"
+        },
+        {
+          "label": "1GB",
+          "url": "https://mad-es-ping.vultr.com/vultr.com.1000MB.bin"
+        }
+      ]
+    },
+    {
+      "id": "vultr:man-uk-ping",
+      "provider": "vultr",
+      "name": "Manchester",
+      "page_url": "https://man-uk-ping.vultr.com/",
+      "ipv4": "64.176.178.136",
+      "ipv6": "2a05:f480:3400:2101:5400:4ff:fe6a:dc04",
+      "files": [
+        {
+          "label": "100MB",
+          "url": "https://man-uk-ping.vultr.com/vultr.com.100MB.bin"
+        },
+        {
+          "label": "1GB",
+          "url": "https://man-uk-ping.vultr.com/vultr.com.1000MB.bin"
+        }
+      ]
+    },
+    {
+      "id": "vultr:mel-au-ping",
+      "provider": "vultr",
+      "name": "Melbourne",
+      "page_url": "https://mel-au-ping.vultr.com/",
+      "ipv4": "67.219.110.24",
+      "ipv6": "2401:c080:2000:1002:5400:3ff:fed8:1603",
+      "files": [
+        {
+          "label": "100MB",
+          "url": "https://mel-au-ping.vultr.com/vultr.com.100MB.bin"
+        },
+        {
+          "label": "1GB",
+          "url": "https://mel-au-ping.vultr.com/vultr.com.1000MB.bin"
+        }
+      ]
+    },
+    {
+      "id": "vultr:mex-mx-ping",
+      "provider": "vultr",
+      "name": "Mexico City",
+      "page_url": "https://mex-mx-ping.vultr.com/",
+      "ipv4": "216.238.66.16",
+      "ipv6": "2001:19f0:b400:101a:5400:3ff:fe99:2eb4",
+      "files": [
+        {
+          "label": "100MB",
+          "url": "https://mex-mx-ping.vultr.com/vultr.com.100MB.bin"
+        },
+        {
+          "label": "1GB",
+          "url": "https://mex-mx-ping.vultr.com/vultr.com.1000MB.bin"
+        }
+      ]
+    },
+    {
+      "id": "vultr:mxp-it-ping",
+      "provider": "vultr",
+      "name": "Milan",
+      "page_url": "https://mxp-it-ping.vultr.com/",
+      "ipv4": "66.245.203.234",
+      "ipv6": "2a05:f480:3800:10fb:5400:6ff:fe18:65c9",
+      "files": [
+        {
+          "label": "100MB",
+          "url": "https://mxp-it-ping.vultr.com/vultr.com.100MB.bin"
+        },
+        {
+          "label": "1GB",
+          "url": "https://mxp-it-ping.vultr.com/vultr.com.1000MB.bin"
+        }
+      ]
+    },
+    {
+      "id": "vultr:nj-us-ping",
+      "provider": "vultr",
+      "name": "New Jersey",
+      "page_url": "https://nj-us-ping.vultr.com/",
+      "ipv4": "108.61.149.182",
+      "ipv6": "2001:19f0:4009:405:5400:ff:fe00:5363",
+      "files": [
+        {
+          "label": "100MB",
+          "url": "https://nj-us-ping.vultr.com/vultr.com.100MB.bin"
+        },
+        {
+          "label": "1GB",
+          "url": "https://nj-us-ping.vultr.com/vultr.com.1000MB.bin"
+        }
+      ]
+    },
+    {
+      "id": "vultr:osk-jp-ping",
+      "provider": "vultr",
+      "name": "Osaka",
+      "page_url": "https://osk-jp-ping.vultr.com/",
+      "ipv4": "64.176.34.94",
+      "ipv6": "2401:c080:3800:2075:5400:4ff:fe48:63c7",
+      "files": [
+        {
+          "label": "100MB",
+          "url": "https://osk-jp-ping.vultr.com/vultr.com.100MB.bin"
+        },
+        {
+          "label": "1GB",
+          "url": "https://osk-jp-ping.vultr.com/vultr.com.1000MB.bin"
+        }
+      ]
+    },
+    {
+      "id": "vultr:par-fr-ping",
+      "provider": "vultr",
+      "name": "Paris",
+      "page_url": "https://par-fr-ping.vultr.com/",
+      "ipv4": "108.61.209.127",
+      "ipv6": "2001:19f0:6800:8002:5400:ff:fe00:536b",
+      "files": [
+        {
+          "label": "100MB",
+          "url": "https://par-fr-ping.vultr.com/vultr.com.100MB.bin"
+        },
+        {
+          "label": "1GB",
+          "url": "https://par-fr-ping.vultr.com/vultr.com.1000MB.bin"
+        }
+      ]
+    },
+    {
+      "id": "vultr:sao-br-ping",
+      "provider": "vultr",
+      "name": "São Paulo",
+      "page_url": "https://sao-br-ping.vultr.com/",
+      "ipv4": "216.238.98.118",
+      "ipv6": "2001:19f0:b800:1083:5400:3ff:feb6:aa75",
+      "files": [
+        {
+          "label": "100MB",
+          "url": "https://sao-br-ping.vultr.com/vultr.com.100MB.bin"
+        },
+        {
+          "label": "1GB",
+          "url": "https://sao-br-ping.vultr.com/vultr.com.1000MB.bin"
+        }
+      ]
+    },
+    {
+      "id": "vultr:scl-cl-ping",
+      "provider": "vultr",
+      "name": "Santiago",
+      "page_url": "https://scl-cl-ping.vultr.com/",
+      "ipv4": "64.176.2.7",
+      "ipv6": "2001:19f0:c800:2025:5400:4ff:fe46:cf",
+      "files": [
+        {
+          "label": "100MB",
+          "url": "https://scl-cl-ping.vultr.com/vultr.com.100MB.bin"
+        },
+        {
+          "label": "1GB",
+          "url": "https://scl-cl-ping.vultr.com/vultr.com.1000MB.bin"
+        }
+      ]
+    },
+    {
+      "id": "vultr:sel-kor-ping",
+      "provider": "vultr",
+      "name": "Seoul",
+      "page_url": "https://sel-kor-ping.vultr.com/",
+      "ipv4": "141.164.34.61",
+      "ipv6": "2401:c080:1c01:0:5400:2ff:febd:8065",
+      "files": [
+        {
+          "label": "100MB",
+          "url": "https://sel-kor-ping.vultr.com/vultr.com.100MB.bin"
+        },
+        {
+          "label": "1GB",
+          "url": "https://sel-kor-ping.vultr.com/vultr.com.1000MB.bin"
+        }
+      ]
+    },
+    {
+      "id": "vultr:sgp-ping",
+      "provider": "vultr",
+      "name": "Singapore",
+      "page_url": "https://sgp-ping.vultr.com/",
+      "ipv4": "45.32.100.168",
+      "ipv6": "2001:19f0:4400:4001:5400:ff:fe32:b7e5",
+      "files": [
+        {
+          "label": "100MB",
+          "url": "https://sgp-ping.vultr.com/vultr.com.100MB.bin"
+        },
+        {
+          "label": "1GB",
+          "url": "https://sgp-ping.vultr.com/vultr.com.1000MB.bin"
+        }
+      ]
+    },
+    {
+      "id": "vultr:sjo-ca-us-ping",
+      "provider": "vultr",
+      "name": "Silicon Valley",
+      "page_url": "https://sjo-ca-us-ping.vultr.com/",
+      "ipv4": "104.156.230.107",
+      "ipv6": "2001:19f0:ac00:126:5400:ff:fe01:7cd4",
+      "files": [
+        {
+          "label": "100MB",
+          "url": "https://sjo-ca-us-ping.vultr.com/vultr.com.100MB.bin"
+        },
+        {
+          "label": "1GB",
+          "url": "https://sjo-ca-us-ping.vultr.com/vultr.com.1000MB.bin"
+        }
+      ]
+    },
+    {
+      "id": "vultr:sto-se-ping",
+      "provider": "vultr",
+      "name": "Stockholm",
+      "page_url": "https://sto-se-ping.vultr.com/",
+      "ipv4": "70.34.194.86",
+      "ipv6": "2a05:f480:2000:10d7:5400:3ff:fe92:aa5",
+      "files": [
+        {
+          "label": "100MB",
+          "url": "https://sto-se-ping.vultr.com/vultr.com.100MB.bin"
+        },
+        {
+          "label": "1GB",
+          "url": "https://sto-se-ping.vultr.com/vultr.com.1000MB.bin"
+        }
+      ]
+    },
+    {
+      "id": "vultr:syd-au-ping",
+      "provider": "vultr",
+      "name": "Sydney",
+      "page_url": "https://syd-au-ping.vultr.com/",
+      "ipv4": "108.61.212.117",
+      "ipv6": "2001:19f0:5800:8062:5400:ff:fe00:536c",
+      "files": [
+        {
+          "label": "100MB",
+          "url": "https://syd-au-ping.vultr.com/vultr.com.100MB.bin"
+        },
+        {
+          "label": "1GB",
+          "url": "https://syd-au-ping.vultr.com/vultr.com.1000MB.bin"
+        }
+      ]
+    },
+    {
+      "id": "vultr:tlv-il-ping",
+      "provider": "vultr",
+      "name": "Tel Aviv",
+      "page_url": "https://tlv-il-ping.vultr.com/",
+      "ipv4": "64.176.162.16",
+      "ipv6": "2a05:f480:2c00:10f7:5400:4ff:fe68:7f2b",
+      "files": [
+        {
+          "label": "100MB",
+          "url": "https://tlv-il-ping.vultr.com/vultr.com.100MB.bin"
+        },
+        {
+          "label": "1GB",
+          "url": "https://tlv-il-ping.vultr.com/vultr.com.1000MB.bin"
+        }
+      ]
+    },
+    {
+      "id": "vultr:tor-ca-ping",
+      "provider": "vultr",
+      "name": "Toronto",
+      "page_url": "https://tor-ca-ping.vultr.com/",
+      "ipv4": "149.248.50.81",
+      "ipv6": "2001:19f0:b001:11:5400:1ff:fecb:8c50",
+      "files": [
+        {
+          "label": "100MB",
+          "url": "https://tor-ca-ping.vultr.com/vultr.com.100MB.bin"
+        },
+        {
+          "label": "1GB",
+          "url": "https://tor-ca-ping.vultr.com/vultr.com.1000MB.bin"
+        }
+      ]
+    },
+    {
+      "id": "vultr:tx-us-ping",
+      "provider": "vultr",
+      "name": "Dallas",
+      "page_url": "https://tx-us-ping.vultr.com/",
+      "ipv4": "108.61.224.175",
+      "ipv6": "2001:19f0:6400:8001:5400:ff:fe00:5362",
+      "files": [
+        {
+          "label": "100MB",
+          "url": "https://tx-us-ping.vultr.com/vultr.com.100MB.bin"
+        },
+        {
+          "label": "1GB",
+          "url": "https://tx-us-ping.vultr.com/vultr.com.1000MB.bin"
+        }
+      ]
+    },
+    {
+      "id": "vultr:wa-us-ping",
+      "provider": "vultr",
+      "name": "Seattle",
+      "page_url": "https://wa-us-ping.vultr.com/",
+      "ipv4": "108.61.194.105",
+      "ipv6": "2001:19f0:8000:8001:5400:ff:fe00:5368",
+      "files": [
+        {
+          "label": "100MB",
+          "url": "https://wa-us-ping.vultr.com/vultr.com.100MB.bin"
+        },
+        {
+          "label": "1GB",
+          "url": "https://wa-us-ping.vultr.com/vultr.com.1000MB.bin"
+        }
+      ]
+    },
+    {
+      "id": "vultr:waw-pl-ping",
+      "provider": "vultr",
+      "name": "Warsaw",
+      "page_url": "https://waw-pl-ping.vultr.com/",
+      "ipv4": "70.34.242.24",
+      "ipv6": "2a05:f480:2400:1011:5400:3ff:fec6:217b",
+      "files": [
+        {
+          "label": "100MB",
+          "url": "https://waw-pl-ping.vultr.com/vultr.com.100MB.bin"
+        },
+        {
+          "label": "1GB",
+          "url": "https://waw-pl-ping.vultr.com/vultr.com.1000MB.bin"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+/lgtest
+/lgtest.exe
+/results/
+/catalog/
+/coverage.out
+*.test
+*.pcap
+*.pcapng
+*.key
+.env
+.env.*
+.DS_Store
